@@ -1,3 +1,6 @@
+# Deprecated
+Use https://github.com/munnik/go-signalk instead.
+
 # go-nmea
 
 [![Build Status](https://github.com/munnik/go-nmea/actions/workflows/go.yml/badge.svg)](https://github.com/munnik/go-nmea/actions/workflows/go.yml) [![Go Report Card](https://goreportcard.com/badge/github.com/munnik/go-nmea)](https://goreportcard.com/report/github.com/munnik/go-nmea) [![Coverage Status](https://coveralls.io/repos/github/munnik/go-nmea/badge.svg?branch=master)](https://coveralls.io/github/munnik/go-nmea?branch=master) ![GitHub](https://img.shields.io/github/license/munnik/go-nmea)
